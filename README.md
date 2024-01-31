@@ -16,7 +16,7 @@ The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 Day 1
 
-- [ ] head, title, and body tags
+- [x] head, title, and body tags
 - [ ] Headers (h1, h2) and Paragraph p
 - [ ] article tag
 - [ ] nested h1, h2, and p tags within the article tag
